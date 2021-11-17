@@ -2,7 +2,13 @@
 
 void main()
 {
-    printf("hello world");
+    int loop;
+    printf("hello world start of git and C\n");
+
+    for(loop=0;loop<10;loop++)
+    {
+        printf( "%d\n", loop) ;
+    }
 
 
 
