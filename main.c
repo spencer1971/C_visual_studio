@@ -11,6 +11,7 @@ void main()
     }
 
 
+    printf("end\n");
 
     return;
 }
