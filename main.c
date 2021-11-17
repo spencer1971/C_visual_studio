@@ -13,8 +13,6 @@ void main()
 
     printf("end\n");
 
-     printf("end2\n");
-
     return;
 }
 
