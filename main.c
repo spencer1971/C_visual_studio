@@ -12,8 +12,6 @@ void main()
 
 
 
-     printf("end2\n");
-
     return;
 }
 
