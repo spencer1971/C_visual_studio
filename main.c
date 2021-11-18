@@ -15,7 +15,9 @@ void main()
 
     scanf("%d", &age);
 
-    printf("Thanks");
+    printf("Thanks ");t
+
+     printf("update work PC ");
 
     return;
 }
