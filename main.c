@@ -19,6 +19,8 @@ void main()
 
      printf("update work PC ");
 
+     printf("update work PC friday ");
+
     return;
 }
 
